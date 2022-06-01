@@ -1,0 +1,21 @@
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\obj\Debug\BancoDe DaDadosTI14T.csproj.AssemblyReference.cache
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\obj\Debug\BancoDe DaDadosTI14T.exe.config
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\obj\Debug\BancoDe DaDadosTI14T.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\BancoDe DaDadosTI14T.exe.config
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\BancoDe DaDadosTI14T.exe
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\BancoDe DaDadosTI14T.pdb
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\MySql.Data.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\Google.Protobuf.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\ZstdNet.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\System.Memory.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\System.Buffers.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\bin\Debug\MySql.Data.xml
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\obj\Debug\BancoDe DaDadosTI14T.csproj.CopyComplete
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\obj\Debug\BancoDe DaDadosTI14T.exe
+C:\Users\vinicius.asilva71\source\repos\BancoDe DaDadosTI14T\BancoDe DaDadosTI14T\obj\Debug\BancoDe DaDadosTI14T.pdb
